@@ -17,8 +17,8 @@ A reaction-speed game utilizing custom built hardware sensors.
 A security-logic game based on acoustic input analysis.
 * **Hardware:** Piezoelectric vibration sensor.
 * **Features:**
-* **Dynamic Recording:** Users can input and save a new knock sequence as a password.
-* **Logic:** Analyzes the timing and length of the sequence to compare against stored values.
+*   **Dynamic Recording:** Users can input and save a new knock sequence as a password.
+*   **Logic:** Analyzes the timing and length of the sequence to compare against stored values.
 * **Technical Focus:** Analog signal thresholding and array based pattern comparison logic.
 
 ## System Integration (ESP32 Communication)
