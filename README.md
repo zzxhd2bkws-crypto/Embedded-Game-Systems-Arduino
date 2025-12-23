@@ -3,7 +3,7 @@
 **Sensor Integration | Pattern Recognition | Inter-Device Communication**
 
 ## Project Overview
-This repository contains two embedded systems projects focused on creative sensor integration and real-time logic. Both systems functioned as peripheral nodes within a larger "Game Master" network controlled by an ESP32.
+This repository contains two embedded systems projects focused on creative sensor integration and real time logic. Both systems functioned as peripheral nodes within a larger "Game Master" network controlled by an ESP32.
 
 ---
 
